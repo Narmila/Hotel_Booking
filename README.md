@@ -23,6 +23,7 @@ Footer Section: Comprehensive footer with about us, branch locations, quick link
 
 
 Technologies Used
+
 HTML5: Structure and content of the website.
 CSS3: Styling and responsive design.
 GitHub: Version control and repository hosting.
@@ -31,6 +32,7 @@ Icons: Font Awesome for icons.
 Videos and Images: Enhancing visual appeal and user engagement.
 
 Usage
+
 Home Page: Explore the luxurious offerings of HOTTELLIA with a stunning video background and introductory content.
 About Us: Learn more about our mission and the services we provide.
 Services: Discover the range of services including affordable hotels, dining options, safety guides, and adventure activities.
