@@ -1,15 +1,26 @@
-![image](https://github.com/user-attachments/assets/2bc59af6-be3a-4bab-991d-173fc2d70693)HOTTELLIA Hotel Booking Website
+![image](https://github.com/user-attachments/assets/1cfc28ef-3fd3-46b9-a984-433da7586398) 
+HOTTELLIA Hotel Booking Website
+
 Welcome to HOTTELLIA, your premier destination for luxury and affordable hotel bookings. This project is a front-end website designed to provide users with an intuitive and seamless experience when searching for and booking accommodations.
 
 Features
+
 Responsive Design: Optimized for all devices including desktops, tablets, and mobile phones.
+
 User-Friendly Navigation: Easy access to Home, About Us, Services, Contact, Login, and Book Now sections.
+
 Interactive Video Background: Engaging video backdrop enhances user experience.
+
 Services Section: Detailed information about services such as affordable hotels, food and drinks, safety guide, and adventures.
+
 Contact Form: Users can easily reach out with their inquiries.
+
 Booking Form: Simple form to book rooms with options for destination, number of guests, arrival, and departure dates.
+
 Login Form: Secure-looking login form for users to access their accounts (Note: Functionality not implemented).
+
 Footer Section: Comprehensive footer with about us, branch locations, quick links, and social media follow options.
+
 
 Technologies Used
 HTML5: Structure and content of the website.
