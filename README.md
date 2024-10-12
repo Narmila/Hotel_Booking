@@ -6,19 +6,12 @@ Welcome to HOTTELLIA, your premier destination for luxury and affordable hotel b
 Features
 
 Responsive Design: Optimized for all devices including desktops, tablets, and mobile phones.
-
 User-Friendly Navigation: Easy access to Home, About Us, Services, Contact, Login, and Book Now sections.
-
 Interactive Video Background: Engaging video backdrop enhances user experience.
-
 Services Section: Detailed information about services such as affordable hotels, food and drinks, safety guide, and adventures.
-
 Contact Form: Users can easily reach out with their inquiries.
-
 Booking Form: Simple form to book rooms with options for destination, number of guests, arrival, and departure dates.
-
 Login Form: Secure-looking login form for users to access their accounts (Note: Functionality not implemented).
-
 Footer Section: Comprehensive footer with about us, branch locations, quick links, and social media follow options.
 
 
